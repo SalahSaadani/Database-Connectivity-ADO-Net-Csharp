@@ -1,0 +1,16 @@
+C:\Users\USER\Dropbox\Personal\Advices\2021\18 ADO\Projects\Dataview Projects\Dataview (CreateDataView)\bin\Debug\DataTable Example 1 (Create Offline Data Table).exe.config
+C:\Users\USER\Dropbox\Personal\Advices\2021\18 ADO\Projects\Dataview Projects\Dataview (CreateDataView)\bin\Debug\DataTable Example 1 (Create Offline Data Table).exe
+C:\Users\USER\Dropbox\Personal\Advices\2021\18 ADO\Projects\Dataview Projects\Dataview (CreateDataView)\bin\Debug\DataTable Example 1 (Create Offline Data Table).pdb
+C:\Users\USER\Dropbox\Personal\Advices\2021\18 ADO\Projects\Dataview Projects\Dataview (CreateDataView)\obj\Debug\Dataview (CreateDataView).csproj.AssemblyReference.cache
+C:\Users\USER\Dropbox\Personal\Advices\2021\18 ADO\Projects\Dataview Projects\Dataview (CreateDataView)\obj\Debug\Dataview (CreateDataView).csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\Dropbox\Personal\Advices\2021\18 ADO\Projects\Dataview Projects\Dataview (CreateDataView)\obj\Debug\Dataview (CreateDataView).csproj.CoreCompileInputs.cache
+C:\Users\USER\Dropbox\Personal\Advices\2021\18 ADO\Projects\Dataview Projects\Dataview (CreateDataView)\obj\Debug\DataTable Example 1 (Create Offline Data Table).exe
+C:\Users\USER\Dropbox\Personal\Advices\2021\18 ADO\Projects\Dataview Projects\Dataview (CreateDataView)\obj\Debug\DataTable Example 1 (Create Offline Data Table).pdb
+D:\C# OOP\ADO.NET\DataView\Dataview (CreateDataView)\bin\Debug\DataTable Example 1 (Create Offline Data Table).exe.config
+D:\C# OOP\ADO.NET\DataView\Dataview (CreateDataView)\bin\Debug\DataTable Example 1 (Create Offline Data Table).exe
+D:\C# OOP\ADO.NET\DataView\Dataview (CreateDataView)\bin\Debug\DataTable Example 1 (Create Offline Data Table).pdb
+D:\C# OOP\ADO.NET\DataView\Dataview (CreateDataView)\obj\Debug\Dataview (CreateDataView).csproj.AssemblyReference.cache
+D:\C# OOP\ADO.NET\DataView\Dataview (CreateDataView)\obj\Debug\DataTable Example 1 (Create Offline Data Table).exe.config
+D:\C# OOP\ADO.NET\DataView\Dataview (CreateDataView)\obj\Debug\Dataview (CreateDataView).csproj.CoreCompileInputs.cache
+D:\C# OOP\ADO.NET\DataView\Dataview (CreateDataView)\obj\Debug\DataTable Example 1 (Create Offline Data Table).exe
+D:\C# OOP\ADO.NET\DataView\Dataview (CreateDataView)\obj\Debug\DataTable Example 1 (Create Offline Data Table).pdb
