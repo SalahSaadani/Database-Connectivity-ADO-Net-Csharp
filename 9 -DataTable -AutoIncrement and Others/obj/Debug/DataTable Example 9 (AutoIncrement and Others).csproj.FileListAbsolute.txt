@@ -1,0 +1,16 @@
+C:\Users\Acer\Dropbox\Personal\Advices\2021\18 ADO\Projects\Datatable Projects\DataTable Example 9 (AutoIncrement and Others)\bin\Debug\DataTable Example 1 (Create Offline Data Table).exe.config
+C:\Users\Acer\Dropbox\Personal\Advices\2021\18 ADO\Projects\Datatable Projects\DataTable Example 9 (AutoIncrement and Others)\bin\Debug\DataTable Example 1 (Create Offline Data Table).exe
+C:\Users\Acer\Dropbox\Personal\Advices\2021\18 ADO\Projects\Datatable Projects\DataTable Example 9 (AutoIncrement and Others)\bin\Debug\DataTable Example 1 (Create Offline Data Table).pdb
+C:\Users\Acer\Dropbox\Personal\Advices\2021\18 ADO\Projects\Datatable Projects\DataTable Example 9 (AutoIncrement and Others)\obj\Debug\DataTable Example 9 (AutoIncrement and Others).csproj.AssemblyReference.cache
+C:\Users\Acer\Dropbox\Personal\Advices\2021\18 ADO\Projects\Datatable Projects\DataTable Example 9 (AutoIncrement and Others)\obj\Debug\DataTable Example 9 (AutoIncrement and Others).csproj.SuggestedBindingRedirects.cache
+C:\Users\Acer\Dropbox\Personal\Advices\2021\18 ADO\Projects\Datatable Projects\DataTable Example 9 (AutoIncrement and Others)\obj\Debug\DataTable Example 9 (AutoIncrement and Others).csproj.CoreCompileInputs.cache
+C:\Users\Acer\Dropbox\Personal\Advices\2021\18 ADO\Projects\Datatable Projects\DataTable Example 9 (AutoIncrement and Others)\obj\Debug\DataTable Example 1 (Create Offline Data Table).exe
+C:\Users\Acer\Dropbox\Personal\Advices\2021\18 ADO\Projects\Datatable Projects\DataTable Example 9 (AutoIncrement and Others)\obj\Debug\DataTable Example 1 (Create Offline Data Table).pdb
+D:\C# OOP\ADO.NET\DATATABLE\9 -DataTable -AutoIncrement and Others\bin\Debug\DataTable Example 1 (Create Offline Data Table).exe.config
+D:\C# OOP\ADO.NET\DATATABLE\9 -DataTable -AutoIncrement and Others\bin\Debug\DataTable Example 1 (Create Offline Data Table).exe
+D:\C# OOP\ADO.NET\DATATABLE\9 -DataTable -AutoIncrement and Others\bin\Debug\DataTable Example 1 (Create Offline Data Table).pdb
+D:\C# OOP\ADO.NET\DATATABLE\9 -DataTable -AutoIncrement and Others\obj\Debug\DataTable Example 9 (AutoIncrement and Others).csproj.AssemblyReference.cache
+D:\C# OOP\ADO.NET\DATATABLE\9 -DataTable -AutoIncrement and Others\obj\Debug\DataTable Example 1 (Create Offline Data Table).exe.config
+D:\C# OOP\ADO.NET\DATATABLE\9 -DataTable -AutoIncrement and Others\obj\Debug\DataTable Example 9 (AutoIncrement and Others).csproj.CoreCompileInputs.cache
+D:\C# OOP\ADO.NET\DATATABLE\9 -DataTable -AutoIncrement and Others\obj\Debug\DataTable Example 1 (Create Offline Data Table).exe
+D:\C# OOP\ADO.NET\DATATABLE\9 -DataTable -AutoIncrement and Others\obj\Debug\DataTable Example 1 (Create Offline Data Table).pdb
