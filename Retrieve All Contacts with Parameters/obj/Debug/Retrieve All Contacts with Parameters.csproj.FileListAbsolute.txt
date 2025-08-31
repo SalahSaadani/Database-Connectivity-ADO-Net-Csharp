@@ -1,0 +1,16 @@
+C:\Users\USER\Dropbox\Personal\Advices\2021\18 ADO\Projects\Retrieve All Contacts with Parameters\bin\Debug\Retrieve All Contacts.exe.config
+C:\Users\USER\Dropbox\Personal\Advices\2021\18 ADO\Projects\Retrieve All Contacts with Parameters\bin\Debug\Retrieve All Contacts.exe
+C:\Users\USER\Dropbox\Personal\Advices\2021\18 ADO\Projects\Retrieve All Contacts with Parameters\bin\Debug\Retrieve All Contacts.pdb
+C:\Users\USER\Dropbox\Personal\Advices\2021\18 ADO\Projects\Retrieve All Contacts with Parameters\obj\Debug\Retrieve All Contacts with Parameters.csproj.AssemblyReference.cache
+C:\Users\USER\Dropbox\Personal\Advices\2021\18 ADO\Projects\Retrieve All Contacts with Parameters\obj\Debug\Retrieve All Contacts with Parameters.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\Dropbox\Personal\Advices\2021\18 ADO\Projects\Retrieve All Contacts with Parameters\obj\Debug\Retrieve All Contacts with Parameters.csproj.CoreCompileInputs.cache
+C:\Users\USER\Dropbox\Personal\Advices\2021\18 ADO\Projects\Retrieve All Contacts with Parameters\obj\Debug\Retrieve All Contacts.exe
+C:\Users\USER\Dropbox\Personal\Advices\2021\18 ADO\Projects\Retrieve All Contacts with Parameters\obj\Debug\Retrieve All Contacts.pdb
+D:\C# OOP\UrXMF744Q22OaRCgvlZC_Retrieve+All+Contacts+with+Parameters\Retrieve All Contacts with Parameters\bin\Debug\Retrieve All Contacts.exe.config
+D:\C# OOP\UrXMF744Q22OaRCgvlZC_Retrieve+All+Contacts+with+Parameters\Retrieve All Contacts with Parameters\bin\Debug\Retrieve All Contacts.exe
+D:\C# OOP\UrXMF744Q22OaRCgvlZC_Retrieve+All+Contacts+with+Parameters\Retrieve All Contacts with Parameters\bin\Debug\Retrieve All Contacts.pdb
+D:\C# OOP\UrXMF744Q22OaRCgvlZC_Retrieve+All+Contacts+with+Parameters\Retrieve All Contacts with Parameters\obj\Debug\Retrieve All Contacts with Parameters.csproj.AssemblyReference.cache
+D:\C# OOP\UrXMF744Q22OaRCgvlZC_Retrieve+All+Contacts+with+Parameters\Retrieve All Contacts with Parameters\obj\Debug\Retrieve All Contacts.exe.config
+D:\C# OOP\UrXMF744Q22OaRCgvlZC_Retrieve+All+Contacts+with+Parameters\Retrieve All Contacts with Parameters\obj\Debug\Retrieve All Contacts with Parameters.csproj.CoreCompileInputs.cache
+D:\C# OOP\UrXMF744Q22OaRCgvlZC_Retrieve+All+Contacts+with+Parameters\Retrieve All Contacts with Parameters\obj\Debug\Retrieve All Contacts.exe
+D:\C# OOP\UrXMF744Q22OaRCgvlZC_Retrieve+All+Contacts+with+Parameters\Retrieve All Contacts with Parameters\obj\Debug\Retrieve All Contacts.pdb
