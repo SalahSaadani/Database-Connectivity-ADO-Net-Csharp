@@ -1,0 +1,24 @@
+C:\Users\USER\Dropbox\Personal\Advices\2021\18 ADO\Projects\DataSet Projects\Dataset (Create Dataset)\bin\Debug\DataTable Example 1 (Create Offline Data Table).exe.config
+C:\Users\USER\Dropbox\Personal\Advices\2021\18 ADO\Projects\DataSet Projects\Dataset (Create Dataset)\bin\Debug\DataTable Example 1 (Create Offline Data Table).exe
+C:\Users\USER\Dropbox\Personal\Advices\2021\18 ADO\Projects\DataSet Projects\Dataset (Create Dataset)\bin\Debug\DataTable Example 1 (Create Offline Data Table).pdb
+C:\Users\USER\Dropbox\Personal\Advices\2021\18 ADO\Projects\DataSet Projects\Dataset (Create Dataset)\obj\Debug\Dataset (Create Dataset).csproj.AssemblyReference.cache
+C:\Users\USER\Dropbox\Personal\Advices\2021\18 ADO\Projects\DataSet Projects\Dataset (Create Dataset)\obj\Debug\Dataset (Create Dataset).csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\Dropbox\Personal\Advices\2021\18 ADO\Projects\DataSet Projects\Dataset (Create Dataset)\obj\Debug\Dataset (Create Dataset).csproj.CoreCompileInputs.cache
+C:\Users\USER\Dropbox\Personal\Advices\2021\18 ADO\Projects\DataSet Projects\Dataset (Create Dataset)\obj\Debug\DataTable Example 1 (Create Offline Data Table).exe
+C:\Users\USER\Dropbox\Personal\Advices\2021\18 ADO\Projects\DataSet Projects\Dataset (Create Dataset)\obj\Debug\DataTable Example 1 (Create Offline Data Table).pdb
+D:\C# OOP\ADO.NET\DataSet\IfhgOmHrTJimx50SwQHD_Dataset+(Create+Dataset)\Dataset (Create Dataset)\bin\Debug\DataTable Example 1 (Create Offline Data Table).exe.config
+D:\C# OOP\ADO.NET\DataSet\IfhgOmHrTJimx50SwQHD_Dataset+(Create+Dataset)\Dataset (Create Dataset)\bin\Debug\DataTable Example 1 (Create Offline Data Table).exe
+D:\C# OOP\ADO.NET\DataSet\IfhgOmHrTJimx50SwQHD_Dataset+(Create+Dataset)\Dataset (Create Dataset)\bin\Debug\DataTable Example 1 (Create Offline Data Table).pdb
+D:\C# OOP\ADO.NET\DataSet\IfhgOmHrTJimx50SwQHD_Dataset+(Create+Dataset)\Dataset (Create Dataset)\obj\Debug\Dataset (Create Dataset).csproj.AssemblyReference.cache
+D:\C# OOP\ADO.NET\DataSet\IfhgOmHrTJimx50SwQHD_Dataset+(Create+Dataset)\Dataset (Create Dataset)\obj\Debug\DataTable Example 1 (Create Offline Data Table).exe.config
+D:\C# OOP\ADO.NET\DataSet\IfhgOmHrTJimx50SwQHD_Dataset+(Create+Dataset)\Dataset (Create Dataset)\obj\Debug\Dataset (Create Dataset).csproj.CoreCompileInputs.cache
+D:\C# OOP\ADO.NET\DataSet\IfhgOmHrTJimx50SwQHD_Dataset+(Create+Dataset)\Dataset (Create Dataset)\obj\Debug\DataTable Example 1 (Create Offline Data Table).exe
+D:\C# OOP\ADO.NET\DataSet\IfhgOmHrTJimx50SwQHD_Dataset+(Create+Dataset)\Dataset (Create Dataset)\obj\Debug\DataTable Example 1 (Create Offline Data Table).pdb
+D:\C# OOP\ADO.NET\DataSet\Dataset (Create Dataset)\bin\Debug\DataTable Example 1 (Create Offline Data Table).exe.config
+D:\C# OOP\ADO.NET\DataSet\Dataset (Create Dataset)\bin\Debug\DataTable Example 1 (Create Offline Data Table).exe
+D:\C# OOP\ADO.NET\DataSet\Dataset (Create Dataset)\bin\Debug\DataTable Example 1 (Create Offline Data Table).pdb
+D:\C# OOP\ADO.NET\DataSet\Dataset (Create Dataset)\obj\Debug\Dataset (Create Dataset).csproj.AssemblyReference.cache
+D:\C# OOP\ADO.NET\DataSet\Dataset (Create Dataset)\obj\Debug\DataTable Example 1 (Create Offline Data Table).exe.config
+D:\C# OOP\ADO.NET\DataSet\Dataset (Create Dataset)\obj\Debug\Dataset (Create Dataset).csproj.CoreCompileInputs.cache
+D:\C# OOP\ADO.NET\DataSet\Dataset (Create Dataset)\obj\Debug\DataTable Example 1 (Create Offline Data Table).exe
+D:\C# OOP\ADO.NET\DataSet\Dataset (Create Dataset)\obj\Debug\DataTable Example 1 (Create Offline Data Table).pdb
